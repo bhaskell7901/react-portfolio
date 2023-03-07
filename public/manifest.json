@@ -1,8 +1,39 @@
 {
   "short_name": "React Portfolio",
   "name": "A personal portfolio app using React",
-  "icons": [],
-  "start_url": ".",
+  "icons": [
+    {
+      "src": "./images/profile-pic-berkeley-bootcamp.png",
+      "sizes": "300x300",
+      "type": "image/png"
+    },
+    {
+      "src": "./images/pexels-photo-1181467.webg",
+      "sizes": "300x300",
+      "type": "image/webg"
+    },
+    {
+      "src": "./images/pexels-photo-1194713.webg",
+      "sizes": "300x300",
+      "type": "image/webg"
+    },
+    {
+      "src": "./images/pexels-photo-2387532.webg",
+      "sizes": "300x300",
+      "type": "image/webg"
+    },
+    {
+      "src": "./images/pexels-photo-3861958.webg",
+      "sizes": "300x300",
+      "type": "image/webg"
+    },
+    {
+      "src": "./images/pexels-photo-3861969.webg",
+      "sizes": "300x300",
+      "type": "image/webg"
+    }
+  ],
+  "start_url": "/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
